@@ -638,7 +638,7 @@ nav-link.current {
 }
 
 .modal-form-field-wrapper {
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 
 .modal-form-field-label {
@@ -655,6 +655,7 @@ nav-link.current {
   position: relative;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 8px;
 }
 
 .modal-form-input {
